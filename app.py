@@ -20,7 +20,7 @@ def predict():
     import os
     cwd = os.getcwd()
 
-    model = joblib.load(cwd + "" +'/marriage_age_predict_model.ml')
+    model = joblib.load(cwd + "" +'/Model/marriage_age_predict_model.ml')
     predicted_age_of_marriage = model.predict([[int(request.args['gender']),
                             int(request.args['religion']),
                             int(request.args['caste']),
