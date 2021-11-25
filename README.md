@@ -25,3 +25,6 @@ joblib
 lask_cors
 
 
+## Video de Youtube
+https://youtu.be/I4OfakUVqTM
+
