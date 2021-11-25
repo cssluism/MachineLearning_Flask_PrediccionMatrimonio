@@ -1,4 +1,4 @@
-![Alt text](Img/ml.jpeg?raw=true "Machine Learning")
+![Alt text](img/ml.jpeg?raw=true "Machine Learning")
 
 Los pasos para inicializar  el proyecto 
 
